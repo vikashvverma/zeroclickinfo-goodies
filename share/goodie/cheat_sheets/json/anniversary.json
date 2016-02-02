@@ -15,7 +15,7 @@
         "Common term": [
         {
             "val": "6 months",
-            "key": "N/A"
+            "key": "N\/A"
         }, {
             "val": "1 year",
             "key": "Paper"
@@ -45,7 +45,7 @@
             "key": "Copper"
         }, {
             "val": "10 years",
-            "key": "Tin / Aluminium"
+            "key": "Tin \/ Aluminium"
         }, {
             "val": "11 years",
             "key": "Steel"
@@ -63,7 +63,7 @@
             "key": "Crystal"
         }, {
             "val": "20 years",
-            "key": "China/Porcelain"
+            "key": "China\/Porcelain"
         }, {
             "val": "25 years",
             "key": "Silver"
@@ -81,7 +81,7 @@
             "key": "Diamond"
         }, {
             "val": "100 years",
-            "key": "Platinum / Centenary"
+            "key": "Platinum \/ Centenary"
         },{
             "val": "200 years",
             "key": "Bicentenary"
@@ -90,10 +90,10 @@
             "key": "Quarter-millennial"
         }, {
             "val": "300 years",
-            "key": "Tercentennial / Tricentennial"
+            "key": "Tercentennial \/ Tricentennial"
         } , {
             "val": "400 years",
-            "key": "Quadricentenary / Quatercentenary"
+            "key": "Quadricentenary \/ Quatercentenary"
         }, {
             "val": "500 years",
             "key": "Quincentennial"
@@ -160,16 +160,16 @@
             "key": "Quindecennial"
         }, {
             "val": "20 years",
-            "key": "Vigintennial / Vicennial"
+            "key": "Vigintennial \/ Vicennial"
         }, {
             "val": "25 years",
             "key": "Quadranscentennial"
         }, {
             "val": "50 years",
-            "key": "Semicentennial / Quinquagenary"
+            "key": "Semicentennial \/ Quinquagenary"
         }, {
             "val": "60 years",
-            "key": "Sexagennial / Sexagenary"
+            "key": "Sexagennial \/ Sexagenary"
         }, {
             "val": "70 years",
             "key": "Septuagennial"
@@ -196,7 +196,7 @@
             "key": "Sestercentennial"
         }, {
             "val": "300 years",
-            "key": "Tercentenary / Tricentenary"
+            "key": "Tercentenary \/ Tricentenary"
         }, {
             "val": "400 years",
             "key": "Quadricentennial"
