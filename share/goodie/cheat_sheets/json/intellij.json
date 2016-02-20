@@ -6,9 +6,23 @@
         "sourceName": "Shortcut World",
         "sourceUrl": "http://www.shortcutworld.com/en/win/IntelliJ.html"
     },
-    "aliases": ["intellij idea", "intellij editor", "intellij ide", "idea ide"],
+    "aliases": [
+        "intellij idea",
+        "intellij editor",
+        "intellij ide",
+        "idea ide"
+    ],
     "template_type": "keyboard",
-    "section_order": ["General", "Productivity", "Editing", "Searching/Replacing", "Compile and Run", "Debugging", "Live Templates", "Navigation"],
+    "section_order": [
+        "General",
+        "Productivity",
+        "Editing",
+        "Searching/Replacing",
+        "Compile and Run"
+        "Debugging",
+        "Live Templates",
+        "Navigation"
+    ],
     "sections": {
         "General": [{
             "key": "[Alt] [0...9]",
