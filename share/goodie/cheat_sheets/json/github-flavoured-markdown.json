@@ -4,11 +4,12 @@
 	"description": "Overview of syntax and common elements for GitHub Flavoured Markdown, a special form of Markdown used across GitHub",
 	"metadata": {
 		"sourceName": "GitHub",
-		"sourceUrl": "https://help.github.com/articles/github-flavored-markdown/"
+		"sourceUrl": "https://help.github.com/categories/writing-on-github/"
 	},
 	"aliases": [
 		"gfm",
-		"ghfmd"
+		"ghfmd",
+        "github markdown"
 	],
 	"template_type": "terminal",
 	"section_order": [
@@ -45,6 +46,10 @@
 		"Tables": [{
 			"key": "First Header  | Second Header\n------------- | -------------\nContent Cell  | Content Cell\nContent Cell  | Content Cell",
 			"val": "You can create tables by assembling a list of words and dividing them with hyphens -\n(for the first row), and then separating each column with a pipe |"
+		}],
+		"Blockquotes": [{
+			"key": "> This line will appear in a blockquote",
+			"val": "To create a block quote, all you have to do is preface a line with the \"greater than\" caret (>)"
 		}],
 		"Inline HTML": [{
 			"key": "<p>text</p>",
