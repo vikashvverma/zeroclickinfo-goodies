@@ -2,25 +2,20 @@
     "id": "perforce_workshop_cheat_sheet",
     "name": "Perforce Workshop",
     "description": "Cheat sheet for getting started with DVCS in the Perforce Workshop.",
-
     "metadata": {
         "sourceName": "Perforce Workshop",
         "sourceUrl" : "https://swarm.workshop.perforce.com"
     },
-
     "aliases": [
         "p4workshop"
     ],
-
     "template_type": "terminal",
-
     "section_order": [
         "Create Repositories",
         "Making Changes",
         "Synchronize with the Workshop",
         "Setup"
     ],
-
     "sections": {
          "Setup": [
             {
