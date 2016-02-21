@@ -7,7 +7,12 @@
         "sourceUrl": "http://www.gta5cheats.com/cheats/ps4/"
     },
     "template_type": "reference",
-    "section_order" : ["Player Effects", "Items","World Effects","Vehicles"],
+    "section_order" : [
+        "Player Effects",
+        "Items",
+        "World Effects",
+        "Vehicles"
+    ],
     "sections":{
         "Player Effects": [
             {
@@ -63,7 +68,7 @@
                 "val" : "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1"
             }
         ],
-           "World Effect": [
+        "World Effects": [
             {
                 "key" : "Change Weather (cycles through all weather one by one)",
                 "val" : "R2, X, L1, L1, L2, L2, L2, Square"
