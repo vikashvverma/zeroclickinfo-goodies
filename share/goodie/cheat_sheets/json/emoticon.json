@@ -2,6 +2,10 @@
     "id": "emoticon_cheat_sheet",
     "name": "Emoticon",
     "description": "Pictorial representation of an emotion via text",
+    "metadata": {
+        "sourceName": "Webopedia",
+        "sourceUrl": "http://www.webopedia.com/quick_ref/textmessageabbreviations_02.asp"
+    },
     "aliases": [
         "emoticons"
     ],
@@ -9,7 +13,8 @@
     "section_order": [
         "Happy",
         "Sad",
-        "Angry"
+        "Angry",
+        "Miscellaneous"
     ],
     "sections": {
         "Happy": [{
@@ -18,6 +23,9 @@
         }, {
             "val": "Happy face with a nose",
             "key": ":-)"
+        }, {
+            "val": "Winking smile",
+            "key": ";-)"
         },{
             "val": "Excited",
             "key": ":D"
@@ -53,6 +61,25 @@
         }, {
             "val": "Annoyed",
             "key": ">_<*"
+        }],
+        "Miscellaneous": [{
+            "val": "Surprised face",
+            "key": ":-O"
+        }, {
+            "val": "Kissing face",
+            "key": ":-*"
+        }, {
+            "val": "Shifty face",
+            "key": ":-\\"
+        }, {
+            "val": "Sticking tongue out",
+            "key": ":P"
+        }, {
+            "val": "Angel face",
+            "key": "O:-)"
+        }, {
+            "val": "Confused face",
+            "key": "O.o"
         }]
     }
 }
