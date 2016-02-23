@@ -77,7 +77,7 @@
                 "val": "O(1)",
                 "key": "Deletion"
         }],
-        "Skip List": [{
+        "Skip List (Average)": [{
                 "val": "O(log(n))",
                 "key": "Access"
         }, {
@@ -88,6 +88,19 @@
                 "key": "Insertion"
         }, {
                 "val": "O(log(n))",
+                "key": "Deletion"
+        }],
+        "Skip List (Worst)": [{
+                "val": "O(n)",
+                "key": "Access"
+        }, {
+                "val": "O(n)",
+                "key": "Search"
+        }, {
+                "val": "O(n))",
+                "key": "Insertion"
+        }, {
+                "val": "O(n)",
                 "key": "Deletion"
         }],
         "Hash Table": [{
