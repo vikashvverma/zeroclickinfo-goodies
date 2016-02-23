@@ -31,6 +31,18 @@
         }, {
                 "val": "Trigger callbacks for the given event, or space-delimited list of events",
                 "key": "object.trigger(event, \\[*args\\])"
+        }, {
+                "val": "Causes the bound callback to fire only once before being removed",
+                "key": "object.once(event, callback, \\[context\\])"
+        }, {
+                "val": "Tell an object to listen to a particular event on an other object",
+                "key": "object.listenTo(other, event, callback) "
+        }, {
+                "val": "Tell an object to stop listening to events",
+                "key": "object.stopListening(\\[other\\], \\[event\\], \\[callback\\]) "
+        }, {
+                "val": "Causes the bound callback to fire only once before being removed",
+                "key": "object.listenToOnce(other, event, callback) "
         }],
         "Model": [{
                 "val": "Extend Backbone.Model to create a Model class",
