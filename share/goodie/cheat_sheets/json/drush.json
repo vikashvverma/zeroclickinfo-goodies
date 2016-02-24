@@ -124,6 +124,10 @@
                 "val": "Print this help message. See `drush help help` for more options."
             },
             {
+                "key": "image-derive",
+                "val": "Create an image derivative"
+            },
+            {
                 "key": "image-flush",
                 "val": "Flush all derived images for a given style."
             }
@@ -156,6 +160,10 @@
             {
                 "key": "sql-sync",
                 "val": "Copy and import source database to target database. Transfers via rsync."
+            },
+            {
+                "key": "sql-sanitize / sqlsan",
+                "val": "Run sanitization operations on the current database"
             }
         ],
         "User commands": [
