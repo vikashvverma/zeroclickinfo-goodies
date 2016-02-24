@@ -29,6 +29,10 @@
       {
         "key": "Philadelphia map",
         "val": "Add \"map\" to your search to generate instant-answer map results"
+      },
+      {
+        "key": "angularjs cheat sheet",
+        "val": "Add \"cheat sheet\" / \"cheatsheet\" to get instant answer of you query"
       }
     ],
     "Go directly to other sites": [
