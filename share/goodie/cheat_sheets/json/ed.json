@@ -56,6 +56,22 @@
                 "val": "The specified line number"
             },
             {
+                "key": "[-n] / [^n]",
+                "val": "The nth previous line, where n is a non-negative number"
+            },
+            {
+                "key": "+",
+                "val": "The next line.  This is equivalent	to +1 and may be repeated with cumulative	effect"
+            },
+            {
+                "key": "lc",
+                "val": "The line previously marked	by a k (mark) command, where lc	is a lower case	letter"
+            },
+            {
+                "key": ";",
+                "val": "The current through last lines in the buffer"
+            },
+            {
                 "key": "/pattern/",
                 "val": "The next line containing [pattern]"
             },
